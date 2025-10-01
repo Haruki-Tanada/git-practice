@@ -1,3 +1,4 @@
-# git-practice
-このリポジトリはGitの練習用です。
+#git-practice
+This is a repository for Git practice.
+
 
